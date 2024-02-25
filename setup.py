@@ -12,6 +12,7 @@ setuptools.setup(
     description="An easy and funny example of a Python package",
     long_description="My_own_Python_package contains a funny game for calculating the result of arithmetic operations applied to an unknow number given by the player",
     long_description_content_type="text/markdown",
+    url="https://github.com/Jagroop2001/guess-game",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
