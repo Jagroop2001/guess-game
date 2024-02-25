@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://wendynavarrete.com/wp-content/uploads/2020/11/background-5594879__480.jpg" alt="Number Guesser Game" border="0" height="250" width="500" />
-</p>
-
 ## Number Guesser Game
 
 The **Number Guesser Game** is a python package that contains a simple and funny game, based on a few arithmetic operations this game will be able to guess the number in the player's mind.
